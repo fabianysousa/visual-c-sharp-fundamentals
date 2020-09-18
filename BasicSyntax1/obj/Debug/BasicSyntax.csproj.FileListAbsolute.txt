@@ -1,0 +1,7 @@
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\BasicSyntax1\bin\Debug\BasicSyntax1.exe.config
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\BasicSyntax1\bin\Debug\BasicSyntax1.exe
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\BasicSyntax1\bin\Debug\BasicSyntax1.pdb
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\BasicSyntax1\obj\Debug\BasicSyntax.csprojAssemblyReference.cache
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\BasicSyntax1\obj\Debug\BasicSyntax.csproj.CoreCompileInputs.cache
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\BasicSyntax1\obj\Debug\BasicSyntax1.exe
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\BasicSyntax1\obj\Debug\BasicSyntax1.pdb
