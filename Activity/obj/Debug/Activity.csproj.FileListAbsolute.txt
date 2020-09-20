@@ -1,0 +1,7 @@
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity\bin\Debug\Activity.exe.config
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity\bin\Debug\Activity.exe
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity\bin\Debug\Activity.pdb
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity\obj\Debug\Activity.csprojAssemblyReference.cache
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity\obj\Debug\Activity.csproj.CoreCompileInputs.cache
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity\obj\Debug\Activity.exe
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity\obj\Debug\Activity.pdb
