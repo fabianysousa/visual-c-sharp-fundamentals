@@ -10,22 +10,31 @@ namespace Activity
     {
         static void Main(string[] args)
         {
-            int result, number;
-            string name;
+            int number1, number2;
+            int result;
+            int exit = 0;
+            Console.WriteLine("Digite um numero:");
+            number1 = Convert.ToInt32(Console.ReadLine());
+           
+            
 
-            name = Console.ReadLine();
-            number = Console.Read();
+            Console.WriteLine("Digite outro numero:");
+            number2 = Convert.ToInt32(Console.ReadLine());
 
-            for( int i = 1; i < 3; i++ )
-            {
-                number += i;
+            while (exit == 0 ) {
+                
+                result = number1 + number2;
+
+                Console.WriteLine("Essa é a conversõa da soma de (number1 + number2) + 's' em string:)");
+                Convert.ToString(result);
+                result = result + 's';
+                Console.WriteLine(result);
+            
+                Console.WriteLine("Para fechar o console digite um número diferente de 0:");
+                exit = Console.Read();
+
+
             }
-
-            Console.WriteLine(number);
-            result = number + Convert.ToInt32(name);
-            Console.WriteLine(result);
-
-
         }
     }
 }
