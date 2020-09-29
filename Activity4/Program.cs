@@ -16,9 +16,9 @@ namespace Activity4
             pf.setCpf("000.000.000-00");
 
             PessoaJuridica pj = new PessoaJuridica();
-            pf.setNome("Maria");
-            pf.setTelefone(99999999);
-            pf.setCpf("000.000.000-00");
+            pj.setNome("Maria");
+            pj.setTelefone(99999999);
+            pj.setCnpj("000.000.000-00");
 
         }
     }
