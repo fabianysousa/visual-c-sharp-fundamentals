@@ -1,0 +1,10 @@
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\bin\Debug\netcoreapp3.1\Activity5.exe
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\obj\Debug\netcoreapp3.1\Activity5.csprojAssemblyReference.cache
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\obj\Debug\netcoreapp3.1\Activity5.AssemblyInfoInputs.cache
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\obj\Debug\netcoreapp3.1\Activity5.AssemblyInfo.cs
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\obj\Debug\netcoreapp3.1\Activity5.RazorTargetAssemblyInfo.cache
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\obj\Debug\netcoreapp3.1\staticwebassets\Activity5.StaticWebAssets.Manifest.cache
+C:\Users\fabiany_costa\source\repos\Activity5\Activity5\obj\Debug\netcoreapp3.1\staticwebassets\Activity5.StaticWebAssets.xml
