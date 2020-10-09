@@ -1,0 +1,12 @@
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\bin\Debug\Activity8.exe.config
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\bin\Debug\Activity8.exe
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\bin\Debug\Activity8.pdb
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\bin\Debug\EntityFramework.dll
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\bin\Debug\EntityFramework.xml
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\obj\Debug\Activity8.csprojAssemblyReference.cache
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\obj\Debug\Activity8.csproj.CoreCompileInputs.cache
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\obj\Debug\Activity8.csproj.CopyComplete
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\obj\Debug\Activity8.exe
+C:\Users\fabiany_costa\Desktop\Projetos\visual-c-sharp-fundamentals\Activity8\Activity8\obj\Debug\Activity8.pdb
