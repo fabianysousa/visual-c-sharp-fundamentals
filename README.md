@@ -2,11 +2,13 @@
 
 ### 📑 Sobre
 
-**Visual C Sharp Fundamentals** é um repositórios referente as oficinas propostas no curso **Fundamentos de Desenvolvimento de Aplicações com Visual C#** da **Dell Lead**. No curso é ensinado:
+**Visual C Sharp Fundamentals** é um repositórios referente as oficinas propostas no curso **Fundamentos de Desenvolvimento de Aplicações com Visual C#** da **Dell Lead**.
 
 ---
 
 ### 📋 Conteúdo
+
+*No curso é ensinado:*
 
 - [x] Introdução ao Desenvolvimento de Aplicações em Visual C#.
 - [x] Noções básicas de sintaxe em C#.
